@@ -6,3 +6,5 @@
 ### Password logic schoolwork
 ### Link:https://tricemail-my.sharepoint.com/personal/s01313033_acad_tri-c_edu/_layouts/15/guestaccess.aspx?share=EZiYAaQGTi1CpmSplfXK2gkB0BBnQ8ToUVSoIqQLOHGFYg&e=czQY00
 ### Zip File:[Programing logic.zip](https://github.com/PlzNotMonday/Schoolwork/files/14899741/Programing.logic.zip)
+
+### Python Logic Homework: ![Python](https://github.com/PlzNotMonday/Schoolwork/assets/166295775/952d2419-7142-4421-9a83-13e5c1a2f877)
