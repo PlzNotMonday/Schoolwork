@@ -10,3 +10,6 @@
 ### Python Logic Homework: ![Python](https://github.com/PlzNotMonday/Schoolwork/assets/166295775/952d2419-7142-4421-9a83-13e5c1a2f877)
 
 ### OOP class flower diagram File:[TimFlowerClass.pdf](https://github.com/PlzNotMonday/Schoolwork/files/14973408/TimFlowerClass.pdf)
+
+### Python OOP project Screenshot of project:![PythonOOP](https://github.com/PlzNotMonday/Schoolwork/assets/166295775/41dd076a-0451-493b-befa-507e735c6391)
+### PY folder containing the code used to add comments and new flower type: [Flower.zip](https://github.com/PlzNotMonday/Schoolwork/files/14973607/Flower.zip)
