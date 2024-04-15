@@ -8,3 +8,5 @@
 ### Zip File:[Programing logic.zip](https://github.com/PlzNotMonday/Schoolwork/files/14899741/Programing.logic.zip)
 
 ### Python Logic Homework: ![Python](https://github.com/PlzNotMonday/Schoolwork/assets/166295775/952d2419-7142-4421-9a83-13e5c1a2f877)
+
+### OOP class flower diagram File:[TimFlowerClass.pdf](https://github.com/PlzNotMonday/Schoolwork/files/14973408/TimFlowerClass.pdf)
